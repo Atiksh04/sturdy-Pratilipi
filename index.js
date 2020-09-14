@@ -5,7 +5,7 @@ import {routes} from './routes/route'
 import socketIO from 'socket.io'
 import http from 'http'
 import {socketFunctions} from './controllers/controller'
-
+import path from 'path'
 const app=express()
 mongoose.Promise= global.Promise;
 mongoose.connect('mongodb+srv://rootadmin:kalash22@mongo.c7r3k.mongodb.net/pratilipi_assignment?retryWrites=true&w=majority')
