@@ -8,7 +8,6 @@ import {socketFunctions} from './controllers/controller'
 
 const app=express()
 mongoose.Promise= global.Promise;
-//mongoose.connect('mongodb://localhost:27017/pratilipi')
 mongoose.connect('mongodb+srv://rootadmin:kalash22@mongo.c7r3k.mongodb.net/pratilipi_assignment?retryWrites=true&w=majority')
 app.use(express.static(path.join(__dirname,'/build')))
 
