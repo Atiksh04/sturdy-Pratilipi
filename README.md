@@ -1,3 +1,18 @@
+ASSINMENT SUBMISSION FOR PRATILIPI
+
+
+
+Front-end Repo Link: https://github.com/Atiksh04/sturdy-pratilipi-front
+
+
+
+Working Url:https://pratilipi-atiksh.herokuapp.com/
+
+
+Drive Link with Details:  https://drive.google.com/file/d/10cFoaEQ_1E_jkps1TpePKv6UZ5croyOh/view?usp=sharing
+
+
+
 This assignment is done with React , Node JS , MongoDB and Web Sockets.
 
 
@@ -17,12 +32,3 @@ For Number of people currently viewing a story Web Sockets has been used to prov
 
 
 
-Front-end Repo Link: https://github.com/Atiksh04/sturdy-pratilipi-front
-
-
-
-Working Url:https://pratilipi-atiksh.herokuapp.com/
-
-
-
-Drive Link with Details:  https://drive.google.com/file/d/10cFoaEQ_1E_jkps1TpePKv6UZ5croyOh/view
